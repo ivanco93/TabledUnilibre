@@ -47,7 +47,7 @@ public class CustomAdapterLocked extends BaseAdapter {
         country.setText(lockedList[i]);
         icon.setImageResource(flags[i]);
         //msg.setText(countryList[i][1]);
-        msg.setText("No puede visualizar los mensajes hasta desb...");
+        msg.setText("No puede visualizar los mensajes hasta d...");
         return view;
     }
 }
