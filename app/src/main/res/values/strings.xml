@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsApp UL</string>
+    <string name="tab_text_1">CHATS</string>
+    <string name="tab_text_2">ESTADOS</string>
+    <string name="tab_text_3">LLAMADAS</string>
+    <string name="tab_text_4">BLOQUEADOS</string>
+</resources>
